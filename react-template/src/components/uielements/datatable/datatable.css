@@ -1,0 +1,4 @@
+.p-paginator .p-paginator-page.p-highlight {
+    @apply  rounded-md text-primary-500 border-2 border-primary-500;
+  
+  }
